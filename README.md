@@ -71,16 +71,6 @@ Here are a few highlights from my portfolio:
 - 🤖 [AI Resume Screener with FastAPI](https://github.com/SODUSOLA/resume-screener)
 
 ---
-
-### 🏆 Certifications & Achievements
-
-- ✅ Advanced Python Programming – *New Horizons (2024)*
-- ✅ Graphic Design & Computer Certificate – *WAPA, Lagos State (2024)*
-- 🧠 Tech4Africans AI/ML Scholarship Candidate – *2025*
-- 🎓 Secondary School Graduate – *LSMCB, Badore (2023)*
-
----
-
 ### 🔥 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SODUSOLA&show_icons=true&theme=radical)
@@ -93,7 +83,7 @@ Here are a few highlights from my portfolio:
 
 - 🔧 Automating forms with Selenium & FastAPI  
 - 📊 Visualizing data insights with Streamlit  
-- 💡 Building a job-matching AI for graduates  
+- 💡 Building a job-matching AI for graduates
 
 ---
 
