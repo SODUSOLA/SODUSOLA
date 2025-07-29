@@ -6,7 +6,7 @@
 
 🌍 I'm based in **Nigeria**  
 ✉️ Contact me: [odusolasemilore@gmail.com](mailto:odusolasemilore@gmail.com)  
-🤝 Open to: Data Analysis • Web Development • Automation • AI/ML Projects  
+🤝 Open to: Data Analysis • Backend Development
 📄 [Download Resume (PDF)](https://docs.google.com/document/d/1xN5TGg98mUyWnGvFlJAa5WYKYIGo_Xln/export?format=pdf)
 
 ---
