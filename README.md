@@ -1,17 +1,17 @@
 ### Hi there! 👋 My name is Odusola Oluwasemilore
 
-## 👨‍💻 Python Developer & Creative Designer
+## Python Developer & Creative Designer
 
 ---
 
 🌍 I'm based in **Nigeria**  
 ✉️ Contact me: [odusolasemilore@gmail.com](mailto:odusolasemilore@gmail.com)  
 🤝 Open to: Data Analysis • Backend Development
-📄 [Download Resume (PDF)](https://docs.google.com/document/d/1xN5TGg98mUyWnGvFlJAa5WYKYIGo_Xln/export?format=pdf)
+
 
 ---
 
-### 🚀 Skills & Tools
+###  Skills & Tools
 
 
 <div align="center">
@@ -64,37 +64,31 @@
 
 ---
 
-### 📌 Pinned Projects
+###  Pinned Projects
 
 Here are a few highlights from my portfolio:
 
-- 📈 [Sales Performance Dashboard with Python](https://github.com/SODUSOLA/sales-dashboard)
-- 🤖 [AI Resume Screener with FastAPI](https://github.com/SODUSOLA/resume-screener)
-
----
-### 🔥 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SODUSOLA&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SODUSOLA&theme=radical)
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SODUSOLA&theme=rogue)
+- [Blog Generator](https://github.com/SODUSOLA/blog-generator-ai.git)
+- [SportiVerse - A dual-role football management system](https://github.com/SODUSOLA/SportiVerse.git)
 
 ---
 
-### 🧠 Currently Working On
+### Currently Working On
 
-- 🔧 Automating forms with Selenium & FastAPI  
-- 📊 Visualizing data insights with Streamlit  
-- 💡 Building a job-matching AI for graduates
+- Automating forms with Selenium & FastAPI  
+- Visualizing data insights with Streamlit  
+- Building a job-matching AI for graduates
+- 
 
 ---
 
-### 💬 Dev Quote
+### Dev Quote
 
 > *"Code is poetry, and I write verses in Python."*
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 
 - 📧 Email: [odusolasemilore@gmail.com](mailto:odusolasemilore@gmail.com)  
 - 📞 Phone: +234 7063912732
