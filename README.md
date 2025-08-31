@@ -1,94 +1,84 @@
-### Hi there! 👋 My name is Odusola Oluwasemilore
+# Odusola Oluwasemilore – GitHub Profile
 
-## Python Developer & Creative Designer
-
----
-
-🌍 I'm based in **Nigeria**  
-✉️ Contact me: [odusolasemilore@gmail.com](mailto:odusolasemilore@gmail.com)  
-🤝 Open to: Data Analysis • Backend Development
-
+Welcome to my GitHub profile repository!  
+This repository contains configuration files and showcases my technical skills, projects, and interests.
 
 ---
 
-###  Skills & Tools
+## About Me
 
+**Name:** Odusola Oluwasemilore  
+**Location:** Nigeria  
+**Role:** Python Developer & Creative Designer
+
+I'm passionate about building elegant solutions with code and design. My interests include data analysis, backend development, and creative design.
+
+---
+
+## Skills & Tools
 
 <div align="center">
 
-<!-- Row 1 -->
-<br /><br />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5" />
-<img width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3" />
-<img width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python" />
-<img width="40" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" height="45" alt="C" />
-<img width="40" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" height="45" alt="django" />
+<!-- Programming Languages & Frameworks -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" height="40" alt="Django" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" height="40" alt="FastAPI" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
 
-<!-- Row 2 -->
-<br /><br />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" height="45" alt="fastapi" />
-<img width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="45" alt="selenium" />
-<img width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github" />
-<img width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git" />
+<br />
 
-<!-- Row 3 -->
-<br /><br />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql" />
-<img width="40" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" height="45" alt="mongodb" />
-<img width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="numpy" />
-<img width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas" />
-<img width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="jupyter" />
+<!-- Data Analysis & Automation -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="Selenium" />
 
+<br />
 
-<!-- Row 4 -->
-<br /><br />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma" />
-<img width="40" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" height="45" alt="illustrator" />
-<img width="40" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" height="45" alt="photoshop" />
-<img width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="canva" />
+<!-- Databases -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" height="40" alt="MongoDB" />
+
+<br />
+
+<!-- Collaboration & UI/UX Design -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+
 </div>
 
 ---
 
-###  Pinned Projects
+## Featured Projects
 
-Here are a few highlights from my portfolio:
+A selection of my work and portfolio highlights:
 
-- [Blog Generator](https://github.com/SODUSOLA/blog-generator-ai.git)
-- [SportiVerse - A dual-role football management system](https://github.com/SODUSOLA/SportiVerse.git)
+- [Blog Generator](https://github.com/SODUSOLA/blog-generator-ai) – AI-driven content creation tool
+- [SportiVerse](https://github.com/SODUSOLA/SportiVerse) – Dual-role football management system
 
 ---
 
-### Currently Working On
+## Current Focus
 
-- Automating forms with Selenium & FastAPI  
-- Visualizing data insights with Streamlit  
+- Automating forms with Selenium & FastAPI
+- Visualizing data insights with Streamlit
 - Building a job-matching AI for graduates
-- 
 
 ---
 
-### Dev Quote
+## Dev Quote
 
 > *"Code is poetry, and I write verses in Python."*
 
 ---
 
-### Let's Connect!
+## Contact
 
-- 📧 Email: [odusolasemilore@gmail.com](mailto:odusolasemilore@gmail.com)  
-- 📞 Phone: +234 7063912732
+- **Email:** [odusolasemilore@gmail.com](mailto:odusolasemilore@gmail.com)
+- **Phone:** +234 7063912732
+
+---
+
+Thank you for visiting! Let's connect and collaborate.
