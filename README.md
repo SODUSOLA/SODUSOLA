@@ -74,7 +74,8 @@ I help **startups, teams, and businesses** transform ideas into **scalable softw
 
 ## Highlights
 - Certified in **Advanced Python Programming (New Horizon)**  
-- Certified in **Backend Development (TechCrush)**  
+- Certified in **Backend Development (TechCrush)**
+- Certified in **Graphic Design (WAPA, Lagos State)** 
 - Completed **Data Analytics coursework** (pursuing Data Science career)  
 - Open to **freelance gigs, collaborations, and internships**  
 
