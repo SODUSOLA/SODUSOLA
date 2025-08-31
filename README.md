@@ -15,34 +15,14 @@ I help **startups, teams, and businesses** transform ideas into **scalable softw
 
 ## Skills & Tools  
 
-<p align="center">
-  <!-- Languages & Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70" alt="Python" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="70" height="70" alt="Django" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="70" height="70" alt="FastAPI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70" height="70" alt="Node.js" />
-</p>
-
-<p align="center">
-  <!-- Data & Automation -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="70" height="70" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="70" height="70" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="70" height="70" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="70" height="70" alt="Selenium" />
-</p>
-
-<p align="center">
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" height="70" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="70" height="70" alt="MongoDB" />
-</p>
-
-<p align="center">
-  <!-- Collaboration & Design -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" height="70" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="70" height="70" alt="Figma" />
-</p>
+**Backend & Data**: Node.js, Python, Django, FastAPI  
+**Data & Automation**: Pandas, NumPy, Jupyter, Selenium  
+**Database Management**: MySQL, MongoDB  
+**State Management**: Redux Toolkit, Zustand, React Query  
+**API & Backend Integration**: REST  
+**Authentication**: OAuth, JWT  
+**Deployment & CI/CD**: Render, Railway, Vercel, Netlify, GitHub Actions  
+**Collaboration & Design**: Git, GitHub, Figma  
 
 ---
 
