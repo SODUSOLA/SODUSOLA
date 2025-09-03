@@ -28,7 +28,7 @@ I help **startups, teams, and businesses** transform ideas into **scalable softw
 
 ## Featured Projects  
 
-🔹 [**Blog Generator AI**](https://github.com/SODUSOLA/blog-generator-ai)  
+🔹 [**Oral2Article**](https://github.com/SODUSOLA/Oral2Article.git)
 *AI-powered tool that converts YouTube videos into blog articles.*  
  Helps businesses and creators save hours on content creation.  
 
@@ -40,7 +40,7 @@ I help **startups, teams, and businesses** transform ideas into **scalable softw
 *A group expense splitter for friends, roommates, or families.*  
  Makes expense sharing fair, transparent, and conflict-free.  
 
-🔹 [**Dashboard Insight System**](https://github.com/SODUSOLA/dashboard_system.git)  
+🔹 [**InsightFlow**](https://github.com/SODUSOLA/InsightFlow.git)
 *Business intelligence platform built with Streamlit.*  
  Transforms **raw data** into **actionable insights** with automated analysis.  
 
