@@ -35,7 +35,7 @@ I help **startups, teams, and businesses** transform ideas into **scalable softw
 🔹 [**SportiVerse**](https://github.com/SODUSOLA/SportiVerse)  
 *Dual-role football management system (admin + user).*  
  Enables team registration, live scores, player stats, and match scheduling.
- _still in a work in progress_
+ *  _still in a work in progress_
 
 🔹 [**SplitSmart**](https://github.com/SODUSOLA/SplitSmart-Project.git)  
 *A group expense splitter for friends, roommates, or families.*  
