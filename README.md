@@ -1,64 +1,93 @@
 # 👋 Hi, I'm Odusola Oluwasemilore  
 
-### **Backend Developer | Data Analyst | Creative Designer**  
-I help **startups, teams, and businesses** transform ideas into **scalable software solutions** and **engaging designs**.  
+### **Backend Developer | Python & Node.JS | API & Database Sysytems**  
+I build scalable backend systems and data-driven applications. My work focuses on designing clean APIs, reliable database architectures, and automation tools that help businesses move faster.
 
 ---
 
 ## What I Do
-- Build **backend systems & APIs** (FastAPI, Django, Node.js)  
-- Analyze data & create **insightful dashboards** (Pandas, Streamlit, Power BI)  
-- Design **intuitive user interfaces** (Figma, UI/UX best practices)  
-- Automate workflows with **Python & Selenium**  
+- Build **backend APIs and microservices** using FastAPI, Django, and Node.js
+- Design **database schemas and backend architectures**
+- Develop **data analysis tools and dashboards**
+- Automate workflows and processes using Python
 
 ---
 
-## Skills & Tools  
+## Texh Stack
 
-**Backend & Data**: Node.js, Python, Django, FastAPI  
-**Data & Automation**: Pandas, NumPy, Jupyter, Selenium  
-**Database Management**: MySQL, MongoDB  
-**State Management**: Redux Toolkit, Zustand, React Query  
-**API & Backend Integration**: REST  
-**Authentication**: OAuth, JWT  
-**Deployment & CI/CD**: Render, Railway, Vercel, Netlify, GitHub Actions  
-**Collaboration & Design**: Git, GitHub, Figma  
+**Languages**
+- Node.js
+- Python
+- SQL
 
+**Backend**
+- FastAPI
+- Django
+- Node.js/Express
+
+**Database Management**
+- PostgreSQL
+- MySQL
+- MongoDB
+
+**Data & Automation**
+- Panda
+- Numpy
+- Jupyter
+- Selenium
+
+**API & Backend Integration**
+- REST
+
+**Tools**
+- Git & Github
+- REST APIs
+- JWT Authentications
+- Docker
+- Github Actions
+  
 ---
 
 ## Featured Projects  
 
-🔹 [**Oral2Article**](https://github.com/SODUSOLA/Oral2Article.git)
-*AI-powered tool that converts YouTube videos into blog articles.*  
- Helps businesses and creators save hours on content creation.  
+🔹 [**PulsePost**](https://github.com/SODUSOLA/PulsePost)  
+*Content automation platform for builders.*  
+ Transforms structured project progress into platform-optimized drafts for X and LinkedIn.   
+*  _work in progress_
 
-🔹 [**SportiVerse**](https://github.com/SODUSOLA/SportiVerse)  
-*Dual-role football management system (admin + user).*  
- Enables team registration, live scores, player stats, and match scheduling.
- *  _still in a work in progress_
+🔹 [**CareerCraft**](https://github.com/SODUSOLA/CareerCraft)  
+*AI-powered career guidance and insight platform.*  
+Combines personalized career counseling, interactive chat, and structured career data through a RESTful backend system.   
+* _work in progress_
 
-🔹 [**SplitSmart**](https://github.com/SODUSOLA/SplitSmart-Project.git)  
+🔹 [**InsightFlow**](https://github.com/SODUSOLA/InsightFlow)  
+*Business intelligence platform built with Streamlit.*  
+ Transforms **raw data** into **actionable insights** with automated analysis.  
+
+🔹 [**SplitSmart**](https://github.com/SODUSOLA/SplitSmart-Project)  
 *A group expense splitter for friends, roommates, or families.*  
  Makes expense sharing fair, transparent, and conflict-free.  
 
-🔹 [**InsightFlow**](https://github.com/SODUSOLA/InsightFlow.git)
-*Business intelligence platform built with Streamlit.*  
- Transforms **raw data** into **actionable insights** with automated analysis.  
+🔹 [**Oral2Article**](https://github.com/SODUSOLA/Oral2Article)  
+*AI-powered tool that converts YouTube videos into blog articles.*  
+ Helps businesses and creators **save hours on content creation**.  
+
 
 ---
 
 ## Current Focus
-- Automating processes with **Selenium & FastAPI**  
-- Exploring **AI for job-matching platforms**  
+- Backend architecture and scalable APIs
+- Automation with Python and FastAPI
+- AI-assisted productivity tools
 
 ---
 
-## Highlights
-- Certified in **Advanced Python Programming (New Horizon)**  
-- Certified in **Backend Development (TechCrush)**
-- Certified in **Graphic Design (WAPA, Lagos State)** 
-- Completed **Data Analytics coursework** (pursuing Data Science career)  
-- Open to **freelance gigs, collaborations, and internships**  
+## Certifications
+- Advanced Python Programming — **New Horizons**
+- Backend Development — **TechCrush**
+- Graphic Design — **WAPA Lagos**
+- Data Analytics Coursework (Data Science - UNILAG)
+
 
 ---
 
@@ -69,8 +98,8 @@ I help **startups, teams, and businesses** transform ideas into **scalable softw
 
 ## Let’s Connect
 [Email Me](mailto:odusolasemilore@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/oluwasemilore-odusola-5444a8336)  
-[Portfolio Website – Coming Soon!]  
+[LinkedIn](https://www.linkedin.com/in/oluwasemilore-dev)  
+ 
 
 ---
 
