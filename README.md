@@ -13,7 +13,7 @@ I build scalable backend systems and data-driven applications. My work focuses o
 
 ---
 
-## Texh Stack
+## Tech Stack
 
 **Languages**
 - Node.js
